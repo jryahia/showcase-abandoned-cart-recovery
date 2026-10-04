@@ -43,6 +43,10 @@ Most stores do nothing about abandoned carts, or send one generic email days lat
 
 ![Abandonment, recovery and per-step performance](assets/00-dashboard.png)
 
+**API surface: Shopify and custom webhooks, stats, discounts**
+
+![API surface: Shopify and custom webhooks, stats, discounts](assets/10-api.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
