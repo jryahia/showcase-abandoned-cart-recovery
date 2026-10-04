@@ -50,3 +50,5 @@ Most stores do nothing about abandoned carts, or send one generic email days lat
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
+
+This repository contains no source code. It is a case study for a proprietary project. © Yahya Jarray.
