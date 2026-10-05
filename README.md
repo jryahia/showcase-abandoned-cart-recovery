@@ -39,6 +39,8 @@ Most stores do nothing about abandoned carts, or send one generic email days lat
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Abandonment, recovery and per-step performance**
 
 ![Abandonment, recovery and per-step performance](assets/00-dashboard.png)
